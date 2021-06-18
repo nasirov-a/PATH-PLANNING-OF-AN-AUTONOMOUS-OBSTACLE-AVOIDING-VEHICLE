@@ -6,3 +6,5 @@ be capable of planning its path, that is performed by using already created and 
 Furthermore, sonar sensors attached to all physical corners of the vehicle should track
 placement of potential obstacles that can be intentionally created, and avoid them by using
 basic principle of obstacle avoidance.
+
+Equipment Used: Raspberry PI, Adafruit DC & Stepper Motor Hat, Bosch BNO055 (IMU), Ender 3 Pro, Nema 14 35HY34 and ultrasonic sensors HC-SR04.
